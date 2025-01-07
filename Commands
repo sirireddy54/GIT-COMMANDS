@@ -1,4 +1,4 @@
 git init
 git add .
-git commit -u "inital commit"
+git commit -m "inital commit"
 git push origin main
